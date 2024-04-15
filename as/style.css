@@ -1,0 +1,44 @@
+body{
+    background-color: lightblue;
+}
+main{
+    background-color: aquamarine;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+h3{
+    columns: red;
+}
+nav ul li a{
+    color: brown;
+    text-decoration: wavy;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    width: auto;
+    background-color: red;
+    margin-bottom: 20px;
+}
+th{
+    color: aqua;
+}
+td{
+    color: aqua;
+}
+video{
+    margin-top: 20px;
+}
+h2{
+    color: aqua;
+}
